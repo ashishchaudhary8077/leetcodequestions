@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,8 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

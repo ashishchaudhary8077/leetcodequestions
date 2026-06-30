@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

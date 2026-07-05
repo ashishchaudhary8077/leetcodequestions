@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0119-pascals-triangle-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0162-find-peak-element) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

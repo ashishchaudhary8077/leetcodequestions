@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,8 +148,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

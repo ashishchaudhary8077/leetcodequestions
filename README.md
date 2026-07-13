@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |

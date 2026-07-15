@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0541-reverse-string-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0876-middle-of-the-linked-list) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |

@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0389-find-the-difference) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

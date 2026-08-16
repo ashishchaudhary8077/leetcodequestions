@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0141-linked-list-cycle) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0410-split-array-largest-sum) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0232-implement-queue-using-stacks) |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |

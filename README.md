@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/ashishchaudhary8077/leetcodequestions/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
